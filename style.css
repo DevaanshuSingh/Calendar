@@ -1,0 +1,40 @@
+        table>tbody>tr>td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        table>tbody>tr>td:nth-child(1) {
+            color: red;
+        }
+
+        .container {
+            background-color: rgba(0, 255, 0, 0.534);
+            border-radius: 20%;
+            height: 55vh;
+            width: 50vw;
+            position: absolute;
+            left: 25vw;
+            top: 15vh;
+        }
+        span{
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 2rem;
+            color: rgba(43, 41, 41, 0.788);
+        }
+        th{
+            font-weight: 100;
+            background-color: rgba(255, 238, 0, 0.712);
+        }
+        table{
+            /* background-color: yellowgreen; */
+            height: 20vh;
+            width: 50vw;
+            border-radius: 10%;
+        }
+        td {
+            /* background-color: rgba(45, 196, 196, 0.781); */
+            border-radius: 20%;
+            font-size: 1.1em;
+            font-weight: 900;
+            /* color: white; */
+        }
